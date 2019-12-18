@@ -17,6 +17,9 @@ Listen To The Music With Simple Tkinter-Python Application
 ## Tip
 
 > Add Animation To Music cover Like Rotation
+
 > Add Round To Music Cover
+
 > Change UI Style
+
 > I Love To Share This Repo With Your Friend Or Fork It 😍
